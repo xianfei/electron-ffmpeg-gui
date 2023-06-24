@@ -1,0 +1,25 @@
+{
+  "name": "electron-ffmpeg-gui",
+  "version": "1.0.0",
+  "description": "A electron based GUI for ffmpeg.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianfei/electron-ffmpeg-gui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianfei/electron-ffmpeg-gui/issues"
+  },
+  "homepage": "https://github.com/xianfei/electron-ffmpeg-gui#readme",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  },
+  "dependencies": {
+    "@material/web": "^1.0.0-pre.5"
+  }
+}
